@@ -4,13 +4,13 @@ A web scraping tool: crawls a given list of Y Combinator ("YC") company urls, sc
 
 Substitute with any input urls of your choice, you only need to change the file `processAllUrls.ts` based on the HTML data you are scraping (check browser's dev tools to understand structure)
 
-Input: CSV file - List of company names and URLs from `inputs/companies.csv`.
-Output: JSON file of all the companies' data, stored in the `out/` folder.
-Output path: `out/scraped.json`
+<b>Input:</b> CSV file - List of company names and URLs from `inputs/companies.csv`.<br>
+<b>Output:</b> JSON file of all the companies' data, stored in the `out/` folder.<br>
+<b>Output path:</b> `out/scraped.json`
 
-Step 1: Given 50 urls of YC web pages, crawls all the web pages (using 'crawlee')
-Step 2: For each page's HTML data, scrapes required HTML data (into pre-defined fields in interfaces) using 'cheerio'
-Step 3: Compile all data into a JSON file
+STEP 1: Given 50 urls of YC web pages, crawls all the web pages (using 'crawlee')<br>
+STEP 2: For each page's HTML data, scrapes required HTML data (into pre-defined fields in interfaces) using 'cheerio'<br>
+STEP 3: Compile all data into a JSON file<br>
 
 ## Tools
 
@@ -63,9 +63,9 @@ Example template of data scraped in this project:
 
 ## Recommended Documentation
 
-[Crawlee's quickstart guide](https://crawlee.dev/docs/quick-start)
-[Cheerio crawler guide](https://crawlee.dev/docs/guides/cheerio-crawler-guide)
-[This jQuery cheatsheet](https://htmlcheatsheet.com/jquery/) may come in handy.
+[Crawlee's quickstart guide](https://crawlee.dev/docs/quick-start)<br>
+[Cheerio crawler guide](https://crawlee.dev/docs/guides/cheerio-crawler-guide)<br>
+This [jQuery cheatsheet](https://htmlcheatsheet.com/jquery/) may come in handy.
 
 ## Getting started
 
@@ -88,5 +88,4 @@ Since the input file is quite large, allow few minutes for the pipeline to finis
 Feel free to make other `.ts` files for testing purposes; you can run them all with `tsx`.
 You can also run `npx tsc` to ensure your code passes all the TypeScript compiler's checks.
 
-Courtesy: FiberAI
->>>>>>> 3e5be51 (commit initial files)
+<b><i>Courtesy: FiberAI</i></b>
