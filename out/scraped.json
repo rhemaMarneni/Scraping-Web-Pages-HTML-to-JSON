@@ -1,0 +1,1658 @@
+[
+  {
+    "name": "Nanograb",
+    "founded": 2023,
+    "teamSize": 3,
+    "location": "San Francisco",
+    "officialWebsite": "https://nanograb.com",
+    "yCombinatorURL": "https://www.ycombinator.com/companies/nanograb",
+    "founders": [
+      {
+        "founderName": "Debesh Mandal",
+        "founderLinkedinUrl": "https://linkedin.com/in/debeshmandal",
+        "founderTitle": "Founder"
+      },
+      {
+        "founderName": "Christopher Lau",
+        "founderLinkedinUrl": "https://linkedin.com/in/christopher-lau-542798151",
+        "founderTitle": "Founder",
+        "founderTwitterurl": "https://twitter.com/lauhoyeung"
+      },
+      {
+        "founderName": "Shanil Panara",
+        "founderLinkedinUrl": "https://linkedin.com/in/shanilpanara",
+        "founderTitle": "Founder",
+        "founderTwitterurl": "https://www.twitter.com/shanilpanara"
+      }
+    ],
+    "socialMedia": {
+      "companyLinkedinUrl": "https://www.linkedin.com/company/94221598",
+      "companyTwitterUrl": "https://twitter.com/nanograb"
+    },
+    "launchPost": [
+      {
+        "launchPostUrl": "https://www.ycombinator.com/launches/J8U-nanograb-multivalent-nanoparticles-for-next-generation-targeted-drugs",
+        "launchPostTitle": "🧪 Nanograb - Multivalent nanoparticles for next-generation targeted drugs"
+      }
+    ]
+  },
+  {
+    "name": "VaultPay",
+    "founded": 2023,
+    "teamSize": 2,
+    "location": "Kinshasa, Congo (Dem. Rep.)",
+    "officialWebsite": "https://vaultpay.io",
+    "yCombinatorURL": "https://www.ycombinator.com/companies/vaultpay",
+    "founders": [
+      {
+        "founderName": "Ntambwa Basambombo",
+        "founderLinkedinUrl": "https://linkedin.com/in/ntambwa-basambombo-1371b952",
+        "founderTitle": "Founder",
+        "founderTwitterurl": "https://twitter.com/ntambwabasa"
+      },
+      {
+        "founderName": "Christel Ilaka",
+        "founderLinkedinUrl": "https://linkedin.com/in/christelilaka",
+        "founderTitle": "Founder",
+        "founderTwitterurl": "https://twitter.com/chrisilaka"
+      }
+    ],
+    "socialMedia": {
+      "companyLinkedinUrl": "https://www.linkedin.com/company/getvaultpay"
+    }
+  },
+  {
+    "name": "Reddit",
+    "founded": null,
+    "teamSize": 2000,
+    "location": "San Francisco",
+    "officialWebsite": "http://reddit.com",
+    "yCombinatorURL": "https://www.ycombinator.com/companies/reddit",
+    "founders": [
+      {
+        "founderName": "Steve Huffman",
+        "founderLinkedinUrl": "https://www.linkedin.com/in/chriscampbell12",
+        "founderTitle": "Founder"
+      }
+    ],
+    "socialMedia": {
+      "companyTwitterUrl": "https://twitter.com/reddit",
+      "companyFacebookUrl": "https://www.facebook.com/reddit/"
+    }
+  },
+  {
+    "name": "VectorShift",
+    "founded": 2023,
+    "teamSize": 8,
+    "location": "",
+    "officialWebsite": "https://www.vectorshift.ai",
+    "yCombinatorURL": "https://www.ycombinator.com/companies/vectorshift",
+    "founders": [
+      {
+        "founderName": "Alexander Leonardi",
+        "founderLinkedinUrl": "https://linkedin.com/in/alexanderleonardi",
+        "founderTitle": "Founder"
+      },
+      {
+        "founderName": "Albert Mao",
+        "founderLinkedinUrl": "https://linkedin.com/in/albert-mao-8b263aa2",
+        "founderTitle": "Founder"
+      }
+    ],
+    "jobs": [
+      {
+        "role": "Frontend Engineer",
+        "location": "New York, NY, US",
+        "jobType": "Full-time"
+      }
+    ],
+    "socialMedia": {
+      "companyLinkedinUrl": "https://www.linkedin.com/company/vectorshift/"
+    },
+    "launchPost": [
+      {
+        "launchPostUrl": "https://www.ycombinator.com/launches/KuV-vectorshift-no-code-generative-ai-platform",
+        "launchPostTitle": "VectorShift: No-code generative AI platform"
+      },
+      {
+        "launchPostUrl": "https://www.ycombinator.com/launches/KEo-vectorshift-the-ai-automation-platform",
+        "launchPostTitle": "VectorShift - The AI Automation Platform"
+      },
+      {
+        "launchPostUrl": "https://www.ycombinator.com/launches/JBf-vectorshift-no-code-llm-workflow-builder",
+        "launchPostTitle": "VectorShift: No-code LLM workflow builder"
+      }
+    ]
+  },
+  {
+    "name": "Razorpay",
+    "founded": 2014,
+    "teamSize": 2700,
+    "location": "Bengaluru, India",
+    "officialWebsite": "https://razorpay.com",
+    "yCombinatorURL": "https://www.ycombinator.com/companies/razorpay",
+    "founders": [
+      {
+        "founderName": "Shashank Kumar",
+        "founderLinkedinUrl": "http://www.linkedin.com/in/kumarshashank",
+        "founderTitle": "Founder",
+        "founderTwitterurl": "https://twitter.com/shashank_kr"
+      },
+      {
+        "founderName": "Harshil Mathur",
+        "founderLinkedinUrl": "https://www.linkedin.com/pub/harshil-mathur/69/23a/127",
+        "founderTitle": "Founder/CEO",
+        "founderTwitterurl": "https://twitter.com/harshilmathur"
+      }
+    ],
+    "jobs": [
+      {
+        "role": "Senior / Principal Engineers",
+        "location": "bangalore",
+        "jobType": "Full-time"
+      },
+      {
+        "role": "Senior Infrastructure Engineer",
+        "location": "Bengaluru",
+        "jobType": "Full-time"
+      },
+      {
+        "role": "Senior/Principal Engineer/Manager, Frontend Engineering",
+        "location": "Bangalore, Karnataka",
+        "jobType": "Full-time"
+      }
+    ],
+    "socialMedia": {
+      "companyLinkedinUrl": "https://www.linkedin.com/company/razorpay/",
+      "companyTwitterUrl": "https://twitter.com/razorpay",
+      "companyFacebookUrl": "https://facebook.com/razorpay"
+    }
+  },
+  {
+    "name": "Fiber AI",
+    "founded": 2023,
+    "teamSize": 8,
+    "location": "San Francisco",
+    "officialWebsite": "https://fiber.ai/",
+    "yCombinatorURL": "https://www.ycombinator.com/companies/fiber-ai",
+    "founders": [
+      {
+        "founderName": "Adi Agashe",
+        "founderLinkedinUrl": "https://linkedin.com/in/adityaagashe",
+        "founderTitle": "Founder",
+        "founderTwitterurl": "https://twitter.com/AdiAgashe"
+      },
+      {
+        "founderName": "Neel Mehta",
+        "founderLinkedinUrl": "https://linkedin.com/in/neel-a-mehta",
+        "founderTitle": "Founder"
+      }
+    ],
+    "jobs": [
+      {
+        "role": "Full Stack Engineer",
+        "location": "New York, NY, US",
+        "jobType": "Full-time"
+      }
+    ],
+    "socialMedia": {
+      "companyLinkedinUrl": "https://www.linkedin.com/company/fiberai/",
+      "companyTwitterUrl": "https://twitter.com/Fiber_AI"
+    },
+    "launchPost": [
+      {
+        "launchPostUrl": "https://www.ycombinator.com/launches/J3W-fiber-ai-automate-sdr-and-bdr-prospecting-outbound-sales-workflows-using-ai",
+        "launchPostTitle": "🤝 Fiber AI - Automate SDR and BDR prospecting & outbound sales workflows using AI."
+      }
+    ]
+  },
+  {
+    "name": "Langdock",
+    "founded": 2023,
+    "teamSize": 9,
+    "location": "",
+    "officialWebsite": "https://langdock.com",
+    "yCombinatorURL": "https://www.ycombinator.com/companies/langdock",
+    "founders": [
+      {
+        "founderName": "Lennard Schmidt",
+        "founderLinkedinUrl": "https://linkedin.com/in/lennardschmidt",
+        "founderTitle": "Founder",
+        "founderTwitterurl": "https://twitter.com/lenschmi"
+      },
+      {
+        "founderName": "Jonas Beisswenger",
+        "founderLinkedinUrl": "https://linkedin.com/in/jonasbeisswenger",
+        "founderTitle": "Founder",
+        "founderTwitterurl": "https://twitter.com/jbeissw"
+      },
+      {
+        "founderName": "Tobias Kemkes",
+        "founderLinkedinUrl": "https://linkedin.com/in/tobiaskemkes",
+        "founderTitle": "Founder",
+        "founderTwitterurl": "https://twitter.com/tobiaskemkes"
+      }
+    ],
+    "jobs": [
+      {
+        "role": "Full Stack Engineer (Next.js)",
+        "location": "Berlin, BE, DE",
+        "jobType": "Full-time"
+      }
+    ],
+    "socialMedia": {
+      "companyLinkedinUrl": "https://www.linkedin.com/company/langdock/",
+      "companyTwitterUrl": "https://twitter.com/langdock_hq"
+    },
+    "launchPost": [
+      {
+        "launchPostUrl": "https://www.ycombinator.com/launches/J6O-langdock-the-gdpr-compliant-chatgpt-for-your-team",
+        "launchPostTitle": "Langdock: The GDPR-compliant ChatGPT for your team"
+      }
+    ]
+  },
+  {
+    "name": "Flair Health",
+    "founded": 2023,
+    "teamSize": 2,
+    "location": "San Francisco",
+    "officialWebsite": "https://www.flairhealth.com",
+    "yCombinatorURL": "https://www.ycombinator.com/companies/flair-health",
+    "founders": [
+      {
+        "founderName": "Diva Sharma",
+        "founderLinkedinUrl": "https://linkedin.com/in/diva-sharma",
+        "founderTitle": "Founder",
+        "founderTwitterurl": "https://twitter.com/adivawhocodes"
+      },
+      {
+        "founderName": "Shobha Dasari",
+        "founderLinkedinUrl": "https://linkedin.com/in/shobha-dasari",
+        "founderTitle": "Founder",
+        "founderTwitterurl": "https://twitter.com/shobha_dasari"
+      }
+    ],
+    "socialMedia": {
+      "companyLinkedinUrl": "https://www.linkedin.com/company/flairhealth/",
+      "companyTwitterUrl": "https://twitter.com/flairhealthcare",
+      "companyFacebookUrl": "https://www.facebook.com/flairhealthcare"
+    },
+    "launchPost": [
+      {
+        "launchPostUrl": "https://www.ycombinator.com/launches/J73-flair-health-tackling-chronic-disease-by-unlocking-personal-lifestyle-data",
+        "launchPostTitle": "Flair Health – Tackling chronic disease by unlocking personal lifestyle data"
+      }
+    ]
+  },
+  {
+    "name": "Amplitude",
+    "founded": 2012,
+    "teamSize": 750,
+    "location": "San Francisco",
+    "officialWebsite": "https://amplitude.com",
+    "yCombinatorURL": "https://www.ycombinator.com/companies/amplitude",
+    "founders": [
+      {
+        "founderName": "Curtis Liu",
+        "founderLinkedinUrl": "https://www.linkedin.com/in/jerry-klingenberger-15027791",
+        "founderTitle": "Founder/CTO"
+      },
+      {
+        "founderName": "Spenser Skates",
+        "founderLinkedinUrl": "https://www.linkedin.com/in/spenserskates",
+        "founderTitle": "Founder/CEO"
+      }
+    ],
+    "socialMedia": {
+      "companyLinkedinUrl": "https://www.linkedin.com/company/amplitude-analytics/",
+      "companyTwitterUrl": "https://twitter.com/Amplitude_HQ",
+      "companyFacebookUrl": "https://www.facebook.com/AmplitudeAnalytics/"
+    }
+  },
+  {
+    "name": "Pylon",
+    "founded": 2022,
+    "teamSize": 15,
+    "location": "San Francisco",
+    "officialWebsite": "https://usepylon.com/?utm_source=ycdirectory&utm_medium=yc",
+    "yCombinatorURL": "https://www.ycombinator.com/companies/pylon-2",
+    "founders": [
+      {
+        "founderName": "Advith Chelikani",
+        "founderLinkedinUrl": "https://www.linkedin.com/in/advith/",
+        "founderTitle": "Founder"
+      },
+      {
+        "founderName": "Marty Kausas",
+        "founderLinkedinUrl": "https://www.linkedin.com/in/martykausas",
+        "founderTitle": "Founder",
+        "founderTwitterurl": "https://x.com/marty_kausas"
+      },
+      {
+        "founderName": "Robert Eng",
+        "founderLinkedinUrl": "https://www.linkedin.com/in/robert-eng/",
+        "founderTitle": "Founder"
+      }
+    ],
+    "jobs": [
+      {
+        "role": "Senior Software Engineer",
+        "location": "San Francisco, CA, US",
+        "jobType": "Full-time"
+      },
+      {
+        "role": "Software Engineer",
+        "location": "San Francisco, CA, US",
+        "jobType": "Full-time"
+      }
+    ],
+    "socialMedia": {
+      "companyLinkedinUrl": "https://www.linkedin.com/company/usepylon/",
+      "companyTwitterUrl": "https://twitter.com/usepylon"
+    }
+  },
+  {
+    "name": "Untether Labs",
+    "founded": 2022,
+    "teamSize": 6,
+    "location": "",
+    "officialWebsite": "https://untetherlabs.com",
+    "yCombinatorURL": "https://www.ycombinator.com/companies/untether-labs",
+    "founders": [
+      {
+        "founderName": "Aditya Sharma",
+        "founderLinkedinUrl": "https://linkedin.com/in/sharmaed",
+        "founderTitle": "Founder",
+        "founderTwitterurl": "https://twitter.com/sharmaed"
+      }
+    ],
+    "jobs": [
+      {
+        "role": "Founding Engineer",
+        "location": "San Francisco, CA, US / Remote (US)",
+        "jobType": "Full-time"
+      },
+      {
+        "role": "Sales Development Representative (SDR)",
+        "location": "San Francisco, CA, US / Remote (US)",
+        "jobType": "Full-time"
+      },
+      {
+        "role": "Founding Engineer",
+        "location": "Vancouver, BC, CA / Remote (CA)",
+        "jobType": "Full-time"
+      }
+    ],
+    "socialMedia": {
+      "companyLinkedinUrl": "https://www.linkedin.com/company/untetherlabs/",
+      "companyTwitterUrl": "https://twitter.com/untetherlabs"
+    },
+    "launchPost": [
+      {
+        "launchPostUrl": "https://www.ycombinator.com/launches/IF6-untether-labs-smart-scheduling-for-digital-clinics",
+        "launchPostTitle": "Untether Labs  ·  Smart scheduling for digital clinics"
+      }
+    ]
+  },
+  {
+    "name": "Dill",
+    "founded": 2022,
+    "teamSize": 0,
+    "location": "",
+    "officialWebsite": "https://usedill.com/",
+    "yCombinatorURL": "https://www.ycombinator.com/companies/dill",
+    "founders": [
+      {
+        "founderName": "Catherine Jiang",
+        "founderLinkedinUrl": "https://linkedin.com/in/catherinehuijiang",
+        "founderTitle": "Founder"
+      }
+    ],
+    "jobs": [
+      {
+        "role": "Founding SDR @ YC-backed construction software startup",
+        "location": "San Francisco, CA, US",
+        "jobType": "Full-time"
+      }
+    ],
+    "launchPost": [
+      {
+        "launchPostUrl": "https://www.ycombinator.com/launches/I86-dill-faster-payments-in-foodservice-distribution",
+        "launchPostTitle": "🌿 Dill - Faster payments in foodservice distribution"
+      }
+    ]
+  },
+  {
+    "name": "Supabase",
+    "founded": 2020,
+    "teamSize": 70,
+    "location": "San Francisco",
+    "officialWebsite": "https://supabase.com",
+    "yCombinatorURL": "https://www.ycombinator.com/companies/supabase",
+    "founders": [
+      {
+        "founderName": "Paul Copplestone",
+        "founderLinkedinUrl": "https://www.linkedin.com/in/paulcopplestone/",
+        "founderTitle": "Founder",
+        "founderTwitterurl": "https://twitter.com/kiwicopple"
+      },
+      {
+        "founderName": "Ant Wilson",
+        "founderLinkedinUrl": "https://www.linkedin.com/in/anthony-wilson-46179937/",
+        "founderTitle": "Founder",
+        "founderTwitterurl": "https://twitter.com/antwilson"
+      }
+    ],
+    "socialMedia": {
+      "companyLinkedinUrl": "https://www.linkedin.com/company/supabase/",
+      "companyTwitterUrl": "https://twitter.com/supabase"
+    }
+  },
+  {
+    "name": "RescueTime",
+    "founded": 2007,
+    "teamSize": 15,
+    "location": "Seattle, WA",
+    "officialWebsite": "http://rescuetime.com",
+    "yCombinatorURL": "https://www.ycombinator.com/companies/rescuetime",
+    "founders": [
+      {
+        "founderName": "Brian Fioca",
+        "founderLinkedinUrl": "https://www.linkedin.com/in/brianfioca/",
+        "founderTitle": "Founder",
+        "founderTwitterurl": "https://twitter.com/bfioca"
+      },
+      {
+        "founderName": "Tony Wright",
+        "founderLinkedinUrl": "https://www.linkedin.com/in/webwright",
+        "founderTitle": "Founder/(Product & Growth)",
+        "founderTwitterurl": "https://www.twitter.com/webwright"
+      }
+    ],
+    "socialMedia": {
+      "companyLinkedinUrl": "https://www.linkedin.com/company/rescuetime",
+      "companyTwitterUrl": "https://twitter.com/rescuetime",
+      "companyFacebookUrl": "https://facebook.com/rescuetime"
+    }
+  },
+  {
+    "name": "Lingt",
+    "founded": null,
+    "teamSize": 2,
+    "location": "San Francisco",
+    "officialWebsite": "https://www.lingt.com/",
+    "yCombinatorURL": "https://www.ycombinator.com/companies/lingt",
+    "founders": [
+      {
+        "founderName": "Justin Cannon",
+        "founderLinkedinUrl": "",
+        "founderTitle": "Founder"
+      }
+    ]
+  },
+  {
+    "name": "Slash",
+    "founded": 2020,
+    "teamSize": 20,
+    "location": "San Francisco",
+    "officialWebsite": "https://www.joinslash.com/",
+    "yCombinatorURL": "https://www.ycombinator.com/companies/slash",
+    "founders": [
+      {
+        "founderName": "Victor Cardenas",
+        "founderLinkedinUrl": "https://www.linkedin.com/in/victor-d-cardenas/",
+        "founderTitle": "Founder",
+        "founderTwitterurl": "https://twitter.com/victorcardenas"
+      },
+      {
+        "founderName": "Kevin Bai",
+        "founderLinkedinUrl": "https://www.linkedin.com/in/kevinbai0",
+        "founderTitle": "Founder",
+        "founderTwitterurl": "https://www.twitter.com/kevinbai0"
+      }
+    ],
+    "jobs": [
+      {
+        "role": "Software Engineer, Infrastructure",
+        "location": "San Francisco",
+        "jobType": "Full-time"
+      },
+      {
+        "role": "Software Engineer",
+        "location": "San Francisco",
+        "jobType": "Full-time"
+      }
+    ],
+    "socialMedia": {
+      "companyLinkedinUrl": "https://www.linkedin.com/company/joinslash/",
+      "companyTwitterUrl": "https://www.twitter.com/joinslashh"
+    }
+  },
+  {
+    "name": "Echodio",
+    "founded": null,
+    "teamSize": 2,
+    "location": "San Francisco",
+    "officialWebsite": "http://echodio.com",
+    "yCombinatorURL": "https://www.ycombinator.com/companies/echodio",
+    "founders": [
+      {
+        "founderName": "Niall Smart",
+        "founderLinkedinUrl": "https://linkedin.com/in/niallsmart",
+        "founderTitle": "Founder/CEO"
+      },
+      {
+        "founderName": "Cormac Driver",
+        "founderLinkedinUrl": "https://www.linkedin.com/in/cormacdriver",
+        "founderTitle": "Founder"
+      },
+      {
+        "founderName": "Vincent Glennon",
+        "founderLinkedinUrl": "https://www.linkedin.com/in/vinnyglennon/",
+        "founderTitle": "Founder",
+        "founderTwitterurl": "https://twitter.com/vinnyglennon"
+      }
+    ]
+  },
+  {
+    "name": "YumDots",
+    "founded": null,
+    "teamSize": 2,
+    "location": "San Francisco",
+    "officialWebsite": "http://yumdots.com",
+    "yCombinatorURL": "https://www.ycombinator.com/companies/yumdots",
+    "founders": [
+      {
+        "founderName": "Mark Rosetta",
+        "founderLinkedinUrl": "https://linkedin.com/in/mark-rosetta-484071267",
+        "founderTitle": "Founder"
+      }
+    ]
+  },
+  {
+    "name": "Airbnb",
+    "founded": 2008,
+    "teamSize": 6132,
+    "location": "San Francisco",
+    "officialWebsite": "http://airbnb.com",
+    "yCombinatorURL": "https://www.ycombinator.com/companies/airbnb",
+    "founders": [
+      {
+        "founderName": "Nathan Blecharczyk",
+        "founderLinkedinUrl": "https://www.linkedin.com/in/blecharczyk/",
+        "founderTitle": "Founder/CTO",
+        "founderTwitterurl": "https://twitter.com/nathanblec"
+      },
+      {
+        "founderName": "Brian Chesky",
+        "founderLinkedinUrl": "https://www.linkedin.com/in/brianchesky/",
+        "founderTitle": "Founder/CEO",
+        "founderTwitterurl": "https://twitter.com/bchesky"
+      },
+      {
+        "founderName": "Joe Gebbia",
+        "founderLinkedinUrl": "https://www.linkedin.com/in/jgebbia/",
+        "founderTitle": "Founder/CPO",
+        "founderTwitterurl": "https://twitter.com/jgebbia"
+      }
+    ],
+    "socialMedia": {
+      "companyLinkedinUrl": "https://www.linkedin.com/company/airbnb/",
+      "companyTwitterUrl": "https://twitter.com/Airbnb",
+      "companyFacebookUrl": "https://www.facebook.com/airbnb/"
+    }
+  },
+  {
+    "name": "Heroku",
+    "founded": 2007,
+    "teamSize": 300,
+    "location": "San Francisco",
+    "officialWebsite": "http://heroku.com",
+    "yCombinatorURL": "https://www.ycombinator.com/companies/heroku",
+    "founders": [
+      {
+        "founderName": "Orion Henry",
+        "founderLinkedinUrl": "",
+        "founderTitle": "Founder"
+      },
+      {
+        "founderName": "James Lindenbaum",
+        "founderLinkedinUrl": "https://www.linkedin.com/in/jameslindenbaum",
+        "founderTitle": "Founder"
+      },
+      {
+        "founderName": "Adam Wiggins",
+        "founderLinkedinUrl": "",
+        "founderTitle": "Founder/CTO"
+      }
+    ],
+    "socialMedia": {
+      "companyLinkedinUrl": "https://www.linkedin.com/company/heroku/",
+      "companyTwitterUrl": "https://twitter.com/heroku"
+    }
+  },
+  {
+    "name": "280 North",
+    "founded": null,
+    "teamSize": 11,
+    "location": "San Francisco",
+    "officialWebsite": "http://280north.com",
+    "yCombinatorURL": "https://www.ycombinator.com/companies/280-north",
+    "founders": [
+      {
+        "founderName": "Ross Boucher",
+        "founderLinkedinUrl": "https://www.linkedin.com/in/jason-konrad",
+        "founderTitle": "Founder"
+      },
+      {
+        "founderName": "Tom Robinson",
+        "founderLinkedinUrl": null,
+        "founderTitle": "Founder"
+      },
+      {
+        "founderName": "Francisco Tolmasky",
+        "founderLinkedinUrl": "https://www.linkedin.com/in/tolmasky",
+        "founderTitle": "Founder"
+      }
+    ]
+  },
+  {
+    "name": "Insoshi",
+    "founded": null,
+    "teamSize": 0,
+    "location": "",
+    "officialWebsite": "http://insoshi.com",
+    "yCombinatorURL": "https://www.ycombinator.com/companies/insoshi",
+    "founders": [
+      {
+        "founderName": "Michael Hartl",
+        "founderLinkedinUrl": "https://www.linkedin.com/in/michaeldhartl/",
+        "founderTitle": "Founder",
+        "founderTwitterurl": "https://twitter.com/mhartl"
+      },
+      {
+        "founderName": "Long Nguyen",
+        "founderLinkedinUrl": "https://www.linkedin.com/in/long-nguyen-3257b3b/",
+        "founderTitle": "Founder"
+      }
+    ]
+  },
+  {
+    "name": "Instaclass",
+    "founded": 2023,
+    "teamSize": 3,
+    "location": "San Francisco",
+    "officialWebsite": "https://myinstaclass.com/",
+    "yCombinatorURL": "https://www.ycombinator.com/companies/instaclass",
+    "founders": [
+      {
+        "founderName": "Flynn Traeger",
+        "founderLinkedinUrl": "https://linkedin.com/in/flynn-traeger",
+        "founderTitle": "Founder"
+      },
+      {
+        "founderName": "Bryn Hughes",
+        "founderLinkedinUrl": "https://linkedin.com/in/bryn-hughes-3968b7201",
+        "founderTitle": "Founder"
+      },
+      {
+        "founderName": "Moe Khalil",
+        "founderLinkedinUrl": "https://linkedin.com/in/moe-khalil-73a2371a1",
+        "founderTitle": "Founder"
+      },
+      {
+        "founderName": "Porter Weisberg",
+        "founderLinkedinUrl": "https://linkedin.com/in/porter-weisberg",
+        "founderTitle": "Founder"
+      }
+    ],
+    "launchPost": [
+      {
+        "launchPostUrl": "https://www.ycombinator.com/launches/KwG-instaclass-make-a-masterclass-on-literally-anything",
+        "launchPostTitle": "Instaclass: Make a masterclass on literally anything"
+      }
+    ]
+  },
+  {
+    "name": "Eclipse Foods",
+    "founded": 2019,
+    "teamSize": 0,
+    "location": "Oakland, CA",
+    "officialWebsite": "http://www.eclipsefoods.com",
+    "yCombinatorURL": "https://www.ycombinator.com/companies/eclipse-foods",
+    "founders": [
+      {
+        "founderName": "Aylon Steinhart",
+        "founderLinkedinUrl": "https://www.linkedin.com/in/aylonsteinhart/",
+        "founderTitle": "Founder",
+        "founderTwitterurl": "https://twitter.com/aylonsteinhart?lang=en"
+      },
+      {
+        "founderName": "Thomas Elliott Bowman",
+        "founderLinkedinUrl": "https://www.linkedin.com/in/thomas-bowman-b2a2a9195",
+        "founderTitle": "Founder"
+      }
+    ],
+    "socialMedia": {
+      "companyLinkedinUrl": "https://www.linkedin.com/company/eclipse-foods",
+      "companyTwitterUrl": "https://twitter.com/eclipse_foods",
+      "companyFacebookUrl": "https://www.facebook.com/eclipsefoodsco/"
+    }
+  },
+  {
+    "name": "Modern Fertility",
+    "founded": 2017,
+    "teamSize": 25,
+    "location": "San Francisco",
+    "officialWebsite": "https://www.modernfertility.com",
+    "yCombinatorURL": "https://www.ycombinator.com/companies/modern-fertility",
+    "founders": [
+      {
+        "founderName": "Carly Leahy",
+        "founderLinkedinUrl": "https://www.linkedin.com/in/carlyleahy",
+        "founderTitle": "Founder"
+      },
+      {
+        "founderName": "Afton Vechery",
+        "founderLinkedinUrl": "https://www.linkedin.com/in/aftonv/",
+        "founderTitle": "Founder/CEO"
+      }
+    ],
+    "socialMedia": {
+      "companyLinkedinUrl": "https://www.linkedin.com/company/modernfertility/",
+      "companyTwitterUrl": "https://twitter.com/ModernFertility?s=20",
+      "companyFacebookUrl": "https://www.facebook.com/modernfertility/"
+    }
+  },
+  {
+    "name": "Long Term Stock Exchange",
+    "founded": 2012,
+    "teamSize": 68,
+    "location": "San Francisco",
+    "officialWebsite": "http://ltse.com",
+    "yCombinatorURL": "https://www.ycombinator.com/companies/long-term-stock-exchange",
+    "founders": [
+      {
+        "founderName": "John Bautista",
+        "founderLinkedinUrl": "https://www.linkedin.com/in/john-bautista-a010912",
+        "founderTitle": "Founder"
+      },
+      {
+        "founderName": "Eric Ries",
+        "founderLinkedinUrl": "https://www.linkedin.com/in/eries",
+        "founderTitle": "Founder/CEO"
+      }
+    ],
+    "socialMedia": {
+      "companyLinkedinUrl": "https://www.linkedin.com/company/ltse",
+      "companyTwitterUrl": "https://twitter.com/ltse"
+    }
+  },
+  {
+    "name": "Kalshi",
+    "founded": 2019,
+    "teamSize": 50,
+    "location": "New York",
+    "officialWebsite": "https://www.kalshi.com",
+    "yCombinatorURL": "https://www.ycombinator.com/companies/kalshi",
+    "founders": [
+      {
+        "founderName": "Luana Lopes Lara",
+        "founderLinkedinUrl": "https://www.linkedin.com/in/luana-lopes-lara-3151068a",
+        "founderTitle": "Founder"
+      },
+      {
+        "founderName": "Tarek Mansour",
+        "founderLinkedinUrl": "https://www.linkedin.com/in/mansourtarek/",
+        "founderTitle": "Founder"
+      }
+    ],
+    "jobs": [
+      {
+        "role": "Influencer Marketer",
+        "location": "New York or Remote / Remote (US)",
+        "jobType": "Full-time"
+      },
+      {
+        "role": "Quantitative Researcher (Market Making)",
+        "location": "New York, New York, United States",
+        "jobType": "Full-time"
+      },
+      {
+        "role": "Product Designer",
+        "location": "Remote",
+        "jobType": "Full-time"
+      },
+      {
+        "role": "Market Surveillance Lead",
+        "location": "New York or Remote / Remote (US)",
+        "jobType": "Full-time"
+      },
+      {
+        "role": "Marketing & Stunt Man (or Woman, or Whatever)",
+        "location": "New York or Remote / Remote (US)",
+        "jobType": "Full-time"
+      },
+      {
+        "role": "Data Visualization Developer",
+        "location": "New York or Remote / Remote (US)",
+        "jobType": "Full-time"
+      },
+      {
+        "role": "Graphic Designer",
+        "location": "New York or Remote / Remote (US)",
+        "jobType": "Full-time"
+      },
+      {
+        "role": "Market Structure",
+        "location": "New York, NY, US",
+        "jobType": "Full-time"
+      },
+      {
+        "role": "Content Creator",
+        "location": "New York or Remote / Remote (US)",
+        "jobType": "Full-time"
+      },
+      {
+        "role": "Social Media Manager",
+        "location": "New York or Remote / Remote (US)",
+        "jobType": "Full-time"
+      },
+      {
+        "role": "Trading Educator",
+        "location": "New York or Remote / Remote (US)",
+        "jobType": "Full-time"
+      },
+      {
+        "role": "Finance Operations",
+        "location": "New York, NY / Remote",
+        "jobType": "Full-time"
+      },
+      {
+        "role": "Motion Designer",
+        "location": "Remote (US)",
+        "jobType": "Contract"
+      },
+      {
+        "role": "Infrastructure Engineer",
+        "location": "New York, NY / Remote",
+        "jobType": "Full-time"
+      },
+      {
+        "role": "Backend Engineer",
+        "location": "New York, New York, United States / Remote",
+        "jobType": "Full-time"
+      }
+    ],
+    "socialMedia": {
+      "companyLinkedinUrl": "https://www.linkedin.com/company/kalshi/",
+      "companyTwitterUrl": "https://twitter.com/Kalshi",
+      "companyFacebookUrl": "https://www.facebook.com/kalshi.official/"
+    }
+  },
+  {
+    "name": "Materee",
+    "founded": 2022,
+    "teamSize": 20,
+    "location": "Jakarta, Indonesia",
+    "officialWebsite": "https://materee.id",
+    "yCombinatorURL": "https://www.ycombinator.com/companies/materee",
+    "founders": [
+      {
+        "founderName": "Hansel Hansel",
+        "founderLinkedinUrl": "https://www.linkedin.com/in/hansel-hansel-05247554",
+        "founderTitle": "Founder"
+      },
+      {
+        "founderName": "Steven Walentino",
+        "founderLinkedinUrl": "http://www.linkedin.com/in/steven-walentino",
+        "founderTitle": "Founder"
+      }
+    ],
+    "socialMedia": {
+      "companyLinkedinUrl": "https://www.linkedin.com/company/materee-ycs22/"
+    },
+    "launchPost": [
+      {
+        "launchPostUrl": "https://www.ycombinator.com/launches/Gff-materee-simplifying-construction-materials-procurement-in-indonesia",
+        "launchPostTitle": "Materee: Simplifying construction materials procurement in Indonesia"
+      }
+    ]
+  },
+  {
+    "name": "Lively, Inc.",
+    "founded": 2016,
+    "teamSize": 195,
+    "location": "San Francisco",
+    "officialWebsite": "https://livelyme.com",
+    "yCombinatorURL": "https://www.ycombinator.com/companies/lively-inc",
+    "founders": [
+      {
+        "founderName": "Alex Cyriac",
+        "founderLinkedinUrl": "https://www.linkedin.com/in/alex-cyriac-1218137",
+        "founderTitle": "Founder/CEO"
+      },
+      {
+        "founderName": "Shobin Uralil",
+        "founderLinkedinUrl": "https://www.linkedin.com/shobinuralil",
+        "founderTitle": "Founder/COO"
+      }
+    ],
+    "socialMedia": {
+      "companyLinkedinUrl": "https://www.linkedin.com/company/livelyhsa",
+      "companyTwitterUrl": "https://twitter.com/Livelyhsa",
+      "companyFacebookUrl": "https://www.facebook.com/livelyhsa/"
+    }
+  },
+  {
+    "name": "Unstatiq",
+    "founded": 2022,
+    "teamSize": 2,
+    "location": "San Francisco",
+    "officialWebsite": "https://www.unstatiq.com/",
+    "yCombinatorURL": "https://www.ycombinator.com/companies/unstatiq",
+    "founders": [
+      {
+        "founderName": "Sachin Jaishankar",
+        "founderLinkedinUrl": "https://www.linkedin.com/in/sachinjaishankar",
+        "founderTitle": "Founder"
+      },
+      {
+        "founderName": "Nish Singaraju",
+        "founderLinkedinUrl": "https://www.linkedin.com/in/nish-singaraju-9472ba175/",
+        "founderTitle": "Founder",
+        "founderTwitterurl": "https://twitter.com/NishSingaraju"
+      }
+    ]
+  },
+  {
+    "name": "Second",
+    "founded": 2023,
+    "teamSize": 3,
+    "location": "",
+    "officialWebsite": "https://www.second.dev",
+    "yCombinatorURL": "https://www.ycombinator.com/companies/second",
+    "founders": [
+      {
+        "founderName": "Eric Rowell",
+        "founderLinkedinUrl": "https://www.linkedin.com/in/errowell/",
+        "founderTitle": "Founder",
+        "founderTwitterurl": "https://twitter.com/ericdrowell"
+      }
+    ],
+    "jobs": [
+      {
+        "role": "Founding Cloud Engineer",
+        "location": "San Francisco, CA, US",
+        "jobType": "Full-time"
+      },
+      {
+        "role": "CTO",
+        "location": "San Francisco, CA, US",
+        "jobType": "Full-time"
+      },
+      {
+        "role": "Founding AI Agent Engineer",
+        "location": "San Francisco, CA, US",
+        "jobType": "Full-time"
+      }
+    ],
+    "socialMedia": {
+      "companyLinkedinUrl": "https://www.linkedin.com/company/secondhq",
+      "companyTwitterUrl": "https://x.com/SecondDevHQ"
+    },
+    "launchPost": [
+      {
+        "launchPostUrl": "https://www.ycombinator.com/launches/J1C-second-the-world-s-first-fully-automated-codebase-migration-platform",
+        "launchPostTitle": "⚫ ⚫ Second - The world's first fully automated codebase migration platform"
+      },
+      {
+        "launchPostUrl": "https://www.ycombinator.com/launches/I5V-second-the-second-developer-bot-you-ve-always-wanted",
+        "launchPostTitle": "👥 Second – The second developer bot you've always wanted"
+      }
+    ]
+  },
+  {
+    "name": "Monzo Bank",
+    "founded": 2015,
+    "teamSize": 2450,
+    "location": "London, United Kingdom",
+    "officialWebsite": "http://www.monzo.com",
+    "yCombinatorURL": "https://www.ycombinator.com/companies/monzo-bank",
+    "founders": [
+      {
+        "founderName": "Tom Blomfield",
+        "founderLinkedinUrl": "https://www.linkedin.com/in/tomblomfield",
+        "founderTitle": "Founder/CEO",
+        "founderTwitterurl": "https://twitter.com/t_blom"
+      },
+      {
+        "founderName": "Jonas Templestein",
+        "founderLinkedinUrl": "",
+        "founderTitle": "Founder/CTO",
+        "founderTwitterurl": "https://twitter.com/jonas"
+      }
+    ],
+    "socialMedia": {
+      "companyLinkedinUrl": "https://www.linkedin.com/company/monzo-bank/?originalSubdomain=uk",
+      "companyTwitterUrl": "https://twitter.com/monzo"
+    }
+  },
+  {
+    "name": "Exa",
+    "founded": 2021,
+    "teamSize": 7,
+    "location": "San Francisco",
+    "officialWebsite": "https://exa.ai",
+    "yCombinatorURL": "https://www.ycombinator.com/companies/exa",
+    "founders": [
+      {
+        "founderName": "Will Bryk",
+        "founderLinkedinUrl": "https://www.linkedin.com/in/william-bryk",
+        "founderTitle": "Founder/CEO",
+        "founderTwitterurl": "https://twitter.com/WilliamBryk"
+      }
+    ],
+    "jobs": [
+      {
+        "role": "Backend Engineer",
+        "location": "San Francisco, California",
+        "jobType": "Full-time"
+      },
+      {
+        "role": "Full Stack Engineer",
+        "location": "San Francisco, California",
+        "jobType": "Full-time"
+      },
+      {
+        "role": "Design Engineer",
+        "location": "San Francisco, CA",
+        "jobType": "Full-time"
+      },
+      {
+        "role": "ML Research Engineer",
+        "location": "San Francisco, CA",
+        "jobType": "Full-time"
+      },
+      {
+        "role": "Generalist Engineer",
+        "location": "San Francisco, CA",
+        "jobType": "Full-time"
+      },
+      {
+        "role": "Sales Engineer",
+        "location": "San Francisco, California",
+        "jobType": "Full-time"
+      },
+      {
+        "role": "DevRel Engineer",
+        "location": "San Francisco, California",
+        "jobType": "Full-time"
+      },
+      {
+        "role": "Designer",
+        "location": "San Francisco, California",
+        "jobType": "Full-time"
+      }
+    ],
+    "socialMedia": {
+      "companyLinkedinUrl": "https://www.linkedin.com/company/exa-ai/",
+      "companyTwitterUrl": "https://twitter.com/ExaAILabs"
+    }
+  },
+  {
+    "name": "Stripe",
+    "founded": 2009,
+    "teamSize": 7000,
+    "location": "San Francisco",
+    "officialWebsite": "http://stripe.com",
+    "yCombinatorURL": "https://www.ycombinator.com/companies/stripe",
+    "founders": [
+      {
+        "founderName": "John Collison",
+        "founderLinkedinUrl": "https://www.linkedin.com/in/johnbcollison/",
+        "founderTitle": "Founder/President",
+        "founderTwitterurl": "https://twitter.com/collision"
+      },
+      {
+        "founderName": "Patrick Collison",
+        "founderLinkedinUrl": "https://www.linkedin.com/in/patrickcollison/",
+        "founderTitle": "Founder/CEO",
+        "founderTwitterurl": "https://twitter.com/patrickc"
+      }
+    ],
+    "jobs": [
+      {
+        "role": "Machine Learning Engineer, Identity",
+        "location": "San Francisco  / Remote",
+        "jobType": "Full-time"
+      },
+      {
+        "role": "Head of Engineering, Identity Graph",
+        "location": "San Francisco  / Remote",
+        "jobType": "Full-time"
+      },
+      {
+        "role": "Frontend Engineer, Identity",
+        "location": "United States / Remote",
+        "jobType": "Full-time"
+      }
+    ],
+    "socialMedia": {
+      "companyLinkedinUrl": "https://www.linkedin.com/company/stripe/",
+      "companyTwitterUrl": "https://twitter.com/stripe"
+    }
+  },
+  {
+    "name": "New Story",
+    "founded": 2014,
+    "teamSize": 30,
+    "location": "Atlanta, GA",
+    "officialWebsite": "http://newstoryhomes.org",
+    "yCombinatorURL": "https://www.ycombinator.com/companies/new-story",
+    "founders": [
+      {
+        "founderName": "Brett Hagler",
+        "founderLinkedinUrl": "http://www.linkedin.com/in/rbhagler/",
+        "founderTitle": "Founder/CEO",
+        "founderTwitterurl": "https://twitter.com/BrettHagler"
+      },
+      {
+        "founderName": "Matthew Marshall",
+        "founderLinkedinUrl": "http://linkedin.com/in/jamesmatthewmarshall",
+        "founderTitle": "Founder"
+      }
+    ],
+    "socialMedia": {
+      "companyLinkedinUrl": "https://www.linkedin.com/company/new-story-homes/",
+      "companyTwitterUrl": "https://mobile.twitter.com/NewStoryHomes",
+      "companyFacebookUrl": "https://www.facebook.com/newstoryhomes"
+    }
+  },
+  {
+    "name": "SolStar",
+    "founded": 2021,
+    "teamSize": 2,
+    "location": "Monterey, CA",
+    "officialWebsite": "https://solstar.finance",
+    "yCombinatorURL": "https://www.ycombinator.com/companies/solstar",
+    "founders": [
+      {
+        "founderName": "Ryan Endacott",
+        "founderLinkedinUrl": "https://www.linkedin.com/in/ryan-endacott-26786255/",
+        "founderTitle": "Founder",
+        "founderTwitterurl": "https://twitter.com/RyanEndacott"
+      }
+    ],
+    "socialMedia": {
+      "companyTwitterUrl": "https://twitter.com/SolStarFinance"
+    },
+    "launchPost": [
+      {
+        "launchPostUrl": "https://www.ycombinator.com/launches/H3i-solstar-venmo-for-discord-the-easiest-way-to-send-crypto-in-a-community",
+        "launchPostTitle": "🌟SolStar - Venmo for Discord - The easiest way to send crypto in a community"
+      }
+    ]
+  },
+  {
+    "name": "Hiro Systems",
+    "founded": 2013,
+    "teamSize": 40,
+    "location": "New York",
+    "officialWebsite": "https://hiro.so",
+    "yCombinatorURL": "https://www.ycombinator.com/companies/hiro-systems",
+    "founders": [
+      {
+        "founderName": "Muneeb Ali",
+        "founderLinkedinUrl": "",
+        "founderTitle": "Founder",
+        "founderTwitterurl": "https://twitter.com/muneeb"
+      }
+    ],
+    "jobs": [
+      {
+        "role": "Blockchain Engineer",
+        "location": "US / CA / ES / PT / NL / RO / Remote (US; CA; ES; PT; NL; RO)",
+        "jobType": "Full-time"
+      },
+      {
+        "role": "Sr. DevOps Engineer",
+        "location": "US / CA / PT / ES / RO / NL / Remote (US; CA; PT; ES; RO; NL)",
+        "jobType": "Full-time"
+      }
+    ],
+    "socialMedia": {
+      "companyLinkedinUrl": "https://www.linkedin.com/company/75437401/admin/",
+      "companyTwitterUrl": "https://twitter.com/hirosystems"
+    }
+  },
+  {
+    "name": "Democracy Earth",
+    "founded": 2015,
+    "teamSize": 2,
+    "location": "Madrid, Spain",
+    "officialWebsite": "http://democracy.earth/",
+    "yCombinatorURL": "https://www.ycombinator.com/companies/democracy-earth",
+    "founders": [
+      {
+        "founderName": "Pia Mancini",
+        "founderLinkedinUrl": "https://www.linkedin.com/in/piamancini",
+        "founderTitle": "Founder"
+      },
+      {
+        "founderName": "Santiago Siri",
+        "founderLinkedinUrl": "http://ar.linkedin.com/in/santisiri",
+        "founderTitle": "Founder/President"
+      },
+      {
+        "founderName": "Guido Vilariño",
+        "founderLinkedinUrl": "https://www.linkedin.com/in/gvilarino",
+        "founderTitle": "Founder"
+      }
+    ],
+    "socialMedia": {
+      "companyTwitterUrl": "https://twitter.com/DemocracyEarth"
+    }
+  },
+  {
+    "name": "Heysan",
+    "founded": 2007,
+    "teamSize": 0,
+    "location": "San Francisco",
+    "officialWebsite": "http://heysan.com",
+    "yCombinatorURL": "https://www.ycombinator.com/companies/heysan",
+    "founders": [
+      {
+        "founderName": "Gustaf Alstromer",
+        "founderLinkedinUrl": "https://www.linkedin.com/in/gustafalstromer/",
+        "founderTitle": "Founder/CEO",
+        "founderTwitterurl": "https://twitter.com/gustaf"
+      },
+      {
+        "founderName": "Pär Lindhe",
+        "founderLinkedinUrl": "https://www.linkedin.com/in/parlindhe",
+        "founderTitle": "Founder/Product Development / UX lead"
+      },
+      {
+        "founderName": "Marie Brattberg",
+        "founderLinkedinUrl": "https://www.linkedin.com/in/mariebrattberg/",
+        "founderTitle": "Founder/Product Manager"
+      },
+      {
+        "founderName": "Michael Ossareh",
+        "founderLinkedinUrl": "https://www.linkedin.com/in/ossareh/",
+        "founderTitle": "Founder/developer, tech dude"
+      }
+    ],
+    "socialMedia": {
+      "companyTwitterUrl": "https://twitter.com/heysan"
+    }
+  },
+  {
+    "name": "Glide",
+    "founded": 2023,
+    "teamSize": 2,
+    "location": "New York",
+    "officialWebsite": "https://paywithglide.xyz",
+    "yCombinatorURL": "https://www.ycombinator.com/companies/glide-2",
+    "founders": [
+      {
+        "founderName": "Tushar Soni",
+        "founderLinkedinUrl": "https://linkedin.com/in/tusharsoni",
+        "founderTitle": "Founder",
+        "founderTwitterurl": "https://twitter.com/tusharsoni1205"
+      },
+      {
+        "founderName": "Qinyu Tong",
+        "founderLinkedinUrl": "https://linkedin.com/in/tongqinyu",
+        "founderTitle": "Founder",
+        "founderTwitterurl": "https://twitter.com/qtofrivia"
+      }
+    ],
+    "socialMedia": {
+      "companyLinkedinUrl": "https://www.linkedin.com/company/paywithglide",
+      "companyTwitterUrl": "https://twitter.com/tusharsoni1205"
+    },
+    "launchPost": [
+      {
+        "launchPostUrl": "https://www.ycombinator.com/launches/J2z-walletkit-developer-platform-for-building-consumer-friendly-web3-apps",
+        "launchPostTitle": "WalletKit — Developer platform for building consumer-friendly web3 apps"
+      }
+    ]
+  },
+  {
+    "name": "Happyrobot",
+    "founded": 2022,
+    "teamSize": 7,
+    "location": "San Francisco",
+    "officialWebsite": "https://happyrobot.ai",
+    "yCombinatorURL": "https://www.ycombinator.com/companies/happyrobot",
+    "founders": [
+      {
+        "founderName": "Pablo Palafox",
+        "founderLinkedinUrl": "https://linkedin.com/in/pablorpalafox",
+        "founderTitle": "Founder",
+        "founderTwitterurl": "https://twitter.com/pablorpalafox"
+      },
+      {
+        "founderName": "Luis Paarup",
+        "founderLinkedinUrl": "https://linkedin.com/in/luispaarup",
+        "founderTitle": "Founder",
+        "founderTwitterurl": "https://twitter.com/PaarupLuis"
+      },
+      {
+        "founderName": "Javier Palafox",
+        "founderLinkedinUrl": "https://linkedin.com/in/javierpalafox",
+        "founderTitle": "Founder",
+        "founderTwitterurl": "https://twitter.com/javypalafox"
+      }
+    ],
+    "jobs": [
+      {
+        "role": "Lead Site Reliability Engineer",
+        "location": "San Francisco, CA, US",
+        "jobType": "Full-time"
+      },
+      {
+        "role": "ML Research Engineer - Audio",
+        "location": "San Francisco, CA, US",
+        "jobType": "Full-time"
+      },
+      {
+        "role": "Solutions Engineer",
+        "location": "San Francisco, CA, US",
+        "jobType": "Full-time"
+      },
+      {
+        "role": "Full-Stack Engineer",
+        "location": "San Francisco, CA, US",
+        "jobType": "Full-time"
+      }
+    ],
+    "socialMedia": {
+      "companyLinkedinUrl": "https://www.linkedin.com/company/happyrobot/",
+      "companyTwitterUrl": "https://twitter.com/happyrobot_ai"
+    }
+  },
+  {
+    "name": "highlight.io",
+    "founded": 2023,
+    "teamSize": 8,
+    "location": "Seattle, WA",
+    "officialWebsite": "https://www.highlight.io/",
+    "yCombinatorURL": "https://www.ycombinator.com/companies/highlight-io",
+    "founders": [
+      {
+        "founderName": "Jay Khatri",
+        "founderLinkedinUrl": "https://linkedin.com/in/jay-khatri",
+        "founderTitle": "Founder",
+        "founderTwitterurl": "https://twitter.com/theJayKhatri"
+      },
+      {
+        "founderName": "Vadim Korolik",
+        "founderLinkedinUrl": "https://www.linkedin.com/in/vkorolik/",
+        "founderTitle": "Founder",
+        "founderTwitterurl": "https://twitter.com/vkorolik"
+      }
+    ],
+    "socialMedia": {
+      "companyLinkedinUrl": "https://www.linkedin.com/company/highlightrun",
+      "companyTwitterUrl": "https://twitter.com/highlightio"
+    },
+    "launchPost": [
+      {
+        "launchPostUrl": "https://www.ycombinator.com/launches/HwV-highlight-io-open-source-session-replay-error-monitoring",
+        "launchPostTitle": "highlight.io - Open-source session replay & error monitoring"
+      }
+    ]
+  },
+  {
+    "name": "Raz",
+    "founded": 2023,
+    "teamSize": 2,
+    "location": "New York",
+    "officialWebsite": "https://www.tryraz.com",
+    "yCombinatorURL": "https://www.ycombinator.com/companies/raz",
+    "founders": [
+      {
+        "founderName": "Rob Haber",
+        "founderLinkedinUrl": "https://linkedin.com/in/rob-haber",
+        "founderTitle": "Founder"
+      },
+      {
+        "founderName": "Alex Luis",
+        "founderLinkedinUrl": "https://linkedin.com/in/alex-luis",
+        "founderTitle": "Founder"
+      }
+    ],
+    "socialMedia": {
+      "companyLinkedinUrl": "https://www.linkedin.com/company/raz-ai"
+    },
+    "launchPost": [
+      {
+        "launchPostUrl": "https://www.ycombinator.com/launches/JFY-raz-next-generation-ai-forms",
+        "launchPostTitle": "Raz: Next-generation AI forms"
+      }
+    ]
+  },
+  {
+    "name": "Khoj",
+    "founded": 2023,
+    "teamSize": 2,
+    "location": "San Francisco",
+    "officialWebsite": "https://khoj.dev/",
+    "yCombinatorURL": "https://www.ycombinator.com/companies/khoj",
+    "founders": [
+      {
+        "founderName": "Debanjum Singh Solanky",
+        "founderLinkedinUrl": "https://linkedin.com/in/debanjum",
+        "founderTitle": "Founder",
+        "founderTwitterurl": "https://twitter.com/debanjum"
+      },
+      {
+        "founderName": "Saba Imran",
+        "founderLinkedinUrl": "https://linkedin.com/in/sabaimran",
+        "founderTitle": "Founder",
+        "founderTwitterurl": "https://twitter.com/sabaimran_go"
+      }
+    ],
+    "socialMedia": {
+      "companyLinkedinUrl": "https://www.linkedin.com/company/khoj-ai/",
+      "companyTwitterUrl": "https://twitter.com/khoj_ai"
+    },
+    "launchPost": [
+      {
+        "launchPostUrl": "https://www.ycombinator.com/launches/JG4-khoj-your-superhuman-companion",
+        "launchPostTitle": "Khoj - Your superhuman companion"
+      }
+    ]
+  },
+  {
+    "name": "Zepto",
+    "founded": 2020,
+    "teamSize": 1300,
+    "location": "Mumbai, India",
+    "officialWebsite": "https://www.zeptonow.com/",
+    "yCombinatorURL": "https://www.ycombinator.com/companies/zepto",
+    "founders": [
+      {
+        "founderName": "Aadit Palicha",
+        "founderLinkedinUrl": "https://www.linkedin.com/in/aadit-palicha/",
+        "founderTitle": "Founder"
+      },
+      {
+        "founderName": "Kaivalya Vohra",
+        "founderLinkedinUrl": "https://www.linkedin.com/in/kaivalya-vohra/",
+        "founderTitle": "Founder"
+      }
+    ],
+    "socialMedia": {
+      "companyLinkedinUrl": "https://www.linkedin.com/company/zeptonow",
+      "companyTwitterUrl": "https://twitter.com/ZeptoNow"
+    }
+  },
+  {
+    "name": "MagicBell",
+    "founded": 2020,
+    "teamSize": 4,
+    "location": "Barcelona, Spain",
+    "officialWebsite": "https://magicbell.com",
+    "yCombinatorURL": "https://www.ycombinator.com/companies/magicbell",
+    "founders": [
+      {
+        "founderName": "Hana Mohan",
+        "founderLinkedinUrl": "https://www.linkedin.com/in/unamashana/",
+        "founderTitle": "Founder",
+        "founderTwitterurl": "https://twitter.com/unamashana"
+      },
+      {
+        "founderName": "Josue Montano",
+        "founderLinkedinUrl": "https://www.linkedin.com/in/josuemontanoa/",
+        "founderTitle": "Founder",
+        "founderTwitterurl": "https://twitter.com/JosueMontano10"
+      }
+    ],
+    "socialMedia": {
+      "companyLinkedinUrl": "https://www.linkedin.com/company/magicbell/",
+      "companyTwitterUrl": "https://twitter.com/magicbell_io"
+    },
+    "launchPost": [
+      {
+        "launchPostUrl": "https://www.ycombinator.com/launches/Iqb-webpushtest-com-ios-safari-web-push-notifications-demo-code",
+        "launchPostTitle": "🔔 WebPushTest.com - iOS Safari web-push notifications demo & code"
+      }
+    ]
+  },
+  {
+    "name": "Sown To Grow",
+    "founded": 2015,
+    "teamSize": 16,
+    "location": "Oakland, CA",
+    "officialWebsite": "http://www.sowntogrow.com/",
+    "yCombinatorURL": "https://www.ycombinator.com/companies/sown-to-grow",
+    "founders": [
+      {
+        "founderName": "Rupa Gupta",
+        "founderLinkedinUrl": "https://www.linkedin.com/pub/rupa-chandra-gupta/39/890/60b",
+        "founderTitle": "Founder/CEO"
+      },
+      {
+        "founderName": "Dennis Li",
+        "founderLinkedinUrl": "https://www.linkedin.com/in/dennisli/",
+        "founderTitle": "Founder",
+        "founderTwitterurl": "https://twitter.com/dennis_hj_li"
+      }
+    ],
+    "socialMedia": {
+      "companyLinkedinUrl": "https://www.linkedin.com/company/sown-to-grow",
+      "companyTwitterUrl": "https://twitter.com/sowntogrow",
+      "companyFacebookUrl": "https://www.facebook.com/sown2grow"
+    }
+  },
+  {
+    "name": "ClassDojo",
+    "founded": 2011,
+    "teamSize": 100,
+    "location": "San Francisco",
+    "officialWebsite": "http://www.classdojo.com",
+    "yCombinatorURL": "https://www.ycombinator.com/companies/classdojo",
+    "founders": [
+      {
+        "founderName": "Sam Chaudhary",
+        "founderLinkedinUrl": "https://www.linkedin.com/in/samchaudhary/",
+        "founderTitle": "Founder/CEO"
+      },
+      {
+        "founderName": "Liam Don",
+        "founderLinkedinUrl": "https://www.linkedin.com/in/liamdon/",
+        "founderTitle": "Founder/CTO",
+        "founderTwitterurl": "https://twitter.com/liamdon"
+      }
+    ],
+    "jobs": [
+      {
+        "role": "0→1 Product Leader",
+        "location": "San Francisco / Remote",
+        "jobType": "Full-time"
+      },
+      {
+        "role": "Sr. Fullstack Engineer",
+        "location": "San Francisco, CA, US / Remote",
+        "jobType": "Full-time"
+      }
+    ],
+    "socialMedia": {
+      "companyLinkedinUrl": "https://www.linkedin.com/company/classdojo",
+      "companyTwitterUrl": "https://twitter.com/classdojo",
+      "companyFacebookUrl": "https://www.facebook.com/classdojo"
+    }
+  },
+  {
+    "name": "Tempo",
+    "founded": 2014,
+    "teamSize": 158,
+    "location": "San Francisco",
+    "officialWebsite": "https://tempo.fit/",
+    "yCombinatorURL": "https://www.ycombinator.com/companies/tempo",
+    "founders": [
+      {
+        "founderName": "Joshua Augustin",
+        "founderLinkedinUrl": "https://www.linkedin.com/in/joshua-augustin-56ba268a",
+        "founderTitle": "Founder/CTO"
+      },
+      {
+        "founderName": "Moawia Eldeeb",
+        "founderLinkedinUrl": "https://www.linkedin.com/in/moawiaeldeeb",
+        "founderTitle": "Founder/CEO"
+      }
+    ],
+    "jobs": [
+      {
+        "role": "Sr Computer Vision Engineer",
+        "location": "San Francisco, CA",
+        "jobType": "Full-time"
+      },
+      {
+        "role": "Senior Front End Engineer",
+        "location": "San Francisco, CA",
+        "jobType": "Full-time"
+      },
+      {
+        "role": "Machine Learning Engineer",
+        "location": "San Francisco, CA",
+        "jobType": "Full-time"
+      }
+    ],
+    "socialMedia": {
+      "companyTwitterUrl": "https://twitter.com/trainwithtempo",
+      "companyFacebookUrl": "https://www.facebook.com/gettempo"
+    }
+  },
+  {
+    "name": "Makeasite",
+    "founded": 2022,
+    "teamSize": 2,
+    "location": "New York",
+    "officialWebsite": "https://makeasite.io",
+    "yCombinatorURL": "https://www.ycombinator.com/companies/makeasite",
+    "founders": [
+      {
+        "founderName": "Neo Cho",
+        "founderLinkedinUrl": "https://www.linkedin.com/in/neocho/",
+        "founderTitle": "Founder"
+      },
+      {
+        "founderName": "Alex Reyes",
+        "founderLinkedinUrl": "https://www.linkedin.com/in/alexreyes-tech/",
+        "founderTitle": "Founder",
+        "founderTwitterurl": "https://twitter.com/alexreyes243"
+      }
+    ],
+    "launchPost": [
+      {
+        "launchPostUrl": "https://www.ycombinator.com/launches/Jcj-cadence-your-ai-powered-running-coach",
+        "launchPostTitle": "Cadence: Your AI-powered running coach"
+      }
+    ]
+  }
+]
